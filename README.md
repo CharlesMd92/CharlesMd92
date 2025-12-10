@@ -1,124 +1,128 @@
-<!-- Banner opcional si quieres añadir uno más adelante -->
-
 <h1 align="center">Hi, I'm Charles M. 🧡⚡</h1>
-<h3 align="center">Blockchain Developer · Smart Contracts · Bitcoin Mindset · Web3 Builder</h3>
+<h3 align="center">Blockchain Developer · Smart Contracts · Bitcoin Mindset · Web3 & Solana Builder</h3>
 
 <p align="center"><i>"Code, Bitcoin, and curiosity."</i></p>
 
 ---
 
 ## 🧭 About Me
-Blockchain developer with a strong **Bitcoin foundation** and a **builder mindset**.  
-Formed initially in Python and automation, today I focus on **Solidity, JavaScript, Web3** and the architecture of decentralized systems.
+I’m a blockchain developer with a **Bitcoin foundation**, a **Web3 builder spirit**,  
+and the discipline of a Mandalorian:
 
-I build on Ethereum and EVM ecosystems using the **principles learned from Bitcoin**:  
-**descentralización, verificación, privacidad, incentivos y seguridad**.
+> *"Piece by piece, block by block — this is the way of clean code, decentralization and continuous learning."*
 
-Currently completing the **Alchemy Academy** path, including the advanced course  
-**Solidity Governance**, and expanding into Web3 full-stack, Chainlink and TON.
+My background started in Python and automation, and evolved into **Solidity, JavaScript,  
+Smart Contract development, Solana, and decentralized architectures**.
+
+I build in Ethereum, Solana and TON applying the core principles learned from Bitcoin:  
+**descentralización, privacidad, incentivos, verificación y seguridad**.
+
+Currently completing the **Alchemy Academy** path and experimenting with the Solana ecosystem  
+(Anchor, program-model, accounts system).
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🟧 Blockchain & Smart Contracts
-- Solidity (Hardhat, Ethers.js, Web3.js)  
-- ERC-20, ERC-721, upgradeability, governance patterns  
-- Chainlink (VRF, Automation, Data Feeds)  
-- TON ecosystem experiments  
-- Security basics: reentrancy, access control, gas optimization
+### 🧡 Bitcoin Layer
+- Protocol fundamentals: UTXO model, PoW, fee markets & incentives  
+- Philosophical backbone for decentralization and trust-minimized systems  
+- Hybrid profile: Bitcoin principles applied to EVM/SVM development  
+
+### 🟦 Ethereum / EVM
+- Solidity · Hardhat · Ethers.js · Web3.js  
+- ERC-20 · ERC-721 · governance · upgradeability  
+- Security principles: reentrancy, gas optimization, access control  
+- Chainlink: VRF · Automation · Data Feeds  
+- dApps & interactions with JS
+
+### 🟣 Solana / SVM Ecosystem
+- Understanding of **parallelized architecture and accounts model**  
+- Writing small Solana programs using **Rust + Anchor (in progress)**  
+- PDA, CPI, program architecture  
+- On-chain logic patterns unique to Solana
 
 ### 🐍 Backend & Automation
-- Python (bots, scripts, automation)  
-- Node.js · Express  
-- API design & integrations
-
-### 🧡 Bitcoin
-- Deep understanding of **protocol fundamentals**  
-- UTXO model, PoW, mempool, fee markets, incentives  
-- Bitcoin philosophy as the base conceptual framework for building  
-- Hybrid approach: Bitcoin principles applied to EVM development
+- Python (APIs, bots, data automation)  
+- Node.js · Express
 
 ### 🤖 AI-Enhanced Development
-- Advanced use of ChatGPT & VS Code AI workflows  
-- Test generation & refactoring  
-- Documentation automation  
-- Gas optimization assisted by AI  
-- Improved debugging flow with IA copilots
+- Advanced usage of ChatGPT + VS Code AI workflows  
+- Automated testing, refactoring and documentation  
+- Gas & performance optimization assisted by IA  
+- AI for debugging and code-review workflows
 
-### 🧰 Tools & Infrastructure
+### 🧰 Tools
 - Git · GitHub  
-- Hardhat · Foundry (exploratory)  
-- Visual Studio Code  
-- Linux / Ubuntu  
-- Docker (básico)
+- Hardhat · Docker · Linux  
+- VS Code  
 
 ---
 
 ## 🚧 Featured Projects (Storytelling Path)
 
 ### 🔹 **SolfaCoin (ERC-20)**
-My first real step into Web3: an ERC-20 token built with Hardhat.  
-I used this project to understand deployment flows, ABI interaction, gas usage, and token economics.
+My first deployed token — understanding ABI, gas usage, deployment flows  
+and Ethereum interactions.
 
-👉 Repo: *add link when ready*
+👉 Repo: *add link*
 
 ---
 
 ### 🔹 **LotteryBros — Smart Contract Lottery**
-A lottery contract built in Solidity, designed to explore randomness, fairness and contract structure.  
-Future improvements include Chainlink VRF integration and automated tests.
+A structured Solidity project designed to learn randomness, fairness,  
+and future integration with Chainlink VRF.
 
 👉 Repo: *add link*
 
 ---
 
 ### 🔹 **NFTs – SolfaChuzas (ERC-721)**
-NFT collection for my basketball ecosystem experiment.  
-Focus on metadata, minting flows, and contract modularity.
+Exploring NFT minting, metadata, collection design and modular contract structure.
 
 👉 Repo: *add link*
 
 ---
 
-### 🔹 **Automation Bots (Python)**
-**my-sugar-diary** and **casa-helper-bot** showcase my earlier background in scripting, automation and API integration.  
-These projects demonstrate versatility beyond EVM smart contracts.
+### 🔹 **Python Automation Bots**
+Early background in scripting, automation and system tools.
 
 👉 Repos: *add links*
 
 ---
 
 ## 🧪 What I'm Currently Learning
-- Full Alchemy Academy Roadmap  
-- Chainlink CCIP & cross-chain messaging  
+- Full Alchemy Academy roadmap  
+- Chainlink CCIP, VRF & advanced Oracle patterns  
+- Solana program development (Rust + Anchor)  
 - Web3 full-stack (Next.js + Ethers.js + Hardhat)  
 - Foundry testing  
-- TON development  
-- Advanced Solidity security patterns
+- TON experiments  
 
 ---
 
 ## 🎯 Roadmap 2025
-- Build a production-level dApp (frontend + smart contracts + tests)  
-- Implement Chainlink VRF for LotteryBros  
-- Deploy a complete NFT minting website  
-- Create an open-source Bitcoin educational mini-tool  
-- Contribute to a public repository (Web3 or Bitcoin)  
-- Prepare for junior blockchain developer roles (MADBIT / remoto)
+- Launch a full production-level dApp  
+- Integrate Chainlink VRF in LotteryBros  
+- Deploy NFT Minting DApp  
+- Build and publish my first Solana program  
+- Contribute to an open-source repo (Bitcoin, Solana or Ethereum)  
+- Achieve a Junior Blockchain Developer role (MADBIT or remote)
 
 ---
 
 ## 🧡 Why Me?
-Because I’m a **bitcoiner at the core**, but a **practical builder** in Web3:
+Because I'm a **bitcoiner at the core**, a **pragmatic builder**,  
+and a Mandalorian in discipline:
 
-- I learn fast and build faster  
+- I build every day  
+- I combine Bitcoin philosophy with EVM/SVM execution  
+- I use IA as a force multiplier  
 - I verify everything  
-- I combine Bitcoin principles with EVM execution  
-- I use IA to accelerate my development without sacrificing rigor  
-- I want to grow inside the blockchain industry and contribute long-term
+- I grow fast and adapt even faster  
 
----
+> *"This is the way."*
+
 
 ## 📫 Contact
 - **LinkedIn:** www.linkedin.com/in/charles-m-d-30b7233a0
